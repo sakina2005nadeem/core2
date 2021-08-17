@@ -355,7 +355,7 @@ label{
 	font-size: 100px;
 }
 
-/*BENEFITS*/
+/*BENEFITS
 
 .ben {
 	width:100%;
@@ -371,9 +371,9 @@ label{
 
 
 .ben h2 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Lato', sans-serif;
 	color: #FFFFFF;
-	font-size:4vw;
+	font-size: 4vw;
 	padding-bottom:2vw;
 	text-align:center;
 }
@@ -414,50 +414,45 @@ label{
 	color:#fff;
 	transition:0.4s;
 }
-
+*/
 
 /*OFFERS*/
 
 .offer {
 	width:100%;
 	background-color:#030302;
-	padding-top:7vw;
+	padding-top: 30px;
 }
 
 .offer h2 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Lato', sans-serif;
 	color: #FFFFFF;
-	font-size:4vw;
-	padding-bottom:1vw;
+	font-size: 60px;
 	text-align:center;
 }
 
-.offer .card-group {
-	margin:0;
-	background-color:#6A6A46;
-}
-
 .offer .card{
-	background-color:#F5F5E3;
-}
-
-.offer .card:hover{
-	background-color:#FFFFFF;
-}
-
-.offer .card:hover .card-img-top {
-	opacity:100%;
+	border-radius: 7%;
+	margin: 5%;
+	background-color: #948e72;
 }
 
 .offer .card-img-top {
-	height:30vw;
-	opacity:80%;
+	height: 300px;
 }
 
 .offer .card-text {
 	color:#000000;
 	font-size:1.2vw;
 	padding-top:0;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.offer h5{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
 }
 
 .offer i{
