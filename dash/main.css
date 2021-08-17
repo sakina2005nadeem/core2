@@ -9,6 +9,10 @@ body{
     overflow-x: hidden;
 }
 
+a{
+    text-decoration: none !important;
+}
+
 .dash{
     background-attachment: fixed;
     background-image: url("images/bg.png");
