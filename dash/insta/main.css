@@ -19,7 +19,10 @@ body{
     border-radius: 8%;
     text-align: center;
     padding: 7%;
-    padding-left: 10%;
+}
+
+.dash .size{
+    width: 100%;
 }
 
 .dash h1{
