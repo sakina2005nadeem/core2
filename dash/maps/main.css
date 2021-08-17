@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+body{
+    background-color: #000;
+    overflow-x: hidden;
+}
+
+.dash{
+    background-color: #111;
+    margin: 5%;
+    border-radius: 8%;
+    text-align: center;
+    padding: 7%;
+}
+
+.dash h1{
+    color: #e0c275;
+    font-size: 30px;
+    font-family:'Poiret One', cursive;
+    text-align: center;
+    padding: 3%;
+    padding-bottom: 0%;
+    transition: 0.4s;
+}
+
+.dash h1:hover{
+    color: #fff;
+}
