@@ -345,14 +345,14 @@ label{
 .about p{
 	text-align:center;
 	color:#FFFFFF;
-	font-family: 'Oswald', sans-serif;
-	font-size:4vh;
-	padding-top:4vw;
+	font-family: 'Poppins', sans-serif;
+	font-size: 21px;
+	padding-top: 30px;
 }
 
 .about i{
 	color:  #D4AF37;
-	font-size:5vw;
+	font-size: 100px;
 }
 
 /*BENEFITS*/
